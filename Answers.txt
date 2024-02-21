@@ -1,0 +1,8 @@
+1.html:5
+2.It is to inform browser we are using html 5 document type.
+3.self closing tag are called as void element,(e.g)inputtag,image tag.
+4.element-<p>,<h1>,<img>
+  attributes-href,src
+5.Html entities are @,&,>,<--it is uesd for using special character.
+6.meta tag are head tag,title tag,link tag. It is used for SEO.
+7.CDN is the best way o add image.
